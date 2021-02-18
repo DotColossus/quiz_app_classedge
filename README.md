@@ -2,6 +2,8 @@
 Quiz App
 
 Screen-1 (Topics List)
+1) 
+
 Screen -2 (Video and Notes)
 
 1) the video will play on click of any topic -- Complete
@@ -25,3 +27,8 @@ Screen -3 (Quiz)
  8) there will the timer animation also(parameters like to show or not and duration are controlled from settings json) -- Complete
  9) on next time the user comes the questions state will be maintained via state -- Complete
 10) after the last question the summary screen will come -- Complete
+
+Screen -4 (Summary)
+
+1) the last screen will be summry of quiz -- Complete
+2) score and time taken for each question -- Not complete
