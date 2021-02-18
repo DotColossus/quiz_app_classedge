@@ -1,0 +1,27 @@
+[
+  {
+    "topicId": 1,
+    "topicName": "Mathematics",
+    "topicBackgroundColor": "9EF71C"
+  },
+  {
+    "topicId": 2,
+    "topicName": "Science",
+    "topicBackgroundColor": "1CF799"
+  },
+  {
+    "topicId": 3,
+    "topicName": "English",
+    "topicBackgroundColor": "F71CAE"
+  },
+  {
+    "topicId": 4,
+    "topicName": "Geography",
+    "topicBackgroundColor": "F71C4A"
+  },
+  {
+    "topicId": 5,
+    "topicName": "History",
+    "topicBackgroundColor": "F7931C"
+  }
+]
