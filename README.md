@@ -2,7 +2,7 @@
 Quiz App
 
 Screen-1 (Topics List)
-1) 
+1) On launch of App there will be a list of topics -- Complete
 
 Screen -2 (Video and Notes)
 
